@@ -15,8 +15,12 @@ Every machine learning problem has three components:
 
 I'll explore several examples and models in this repository. Here's how the relationship between these three components can be visualized:
 
-<img src="https://i.imgur.com/oiGQFJ9.png" width="480">
+<div align="center">
+  <img src="https://i.imgur.com/oiGQFJ9.png" width="480">
+</div>
+
 [Image Source](https://jovian.com/aakashns/python-sklearn-linear-regression)
+
 
 ### Contents
 1. Predicting Medical Expenses Using Linear Regression
