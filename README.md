@@ -3,7 +3,7 @@ Practical and hands-on introduction to Machine Learning with Python and Scikit-L
 
 ### Machine Learning
 
-Machine learning is simply the process of computing the best parameters to model the relationship between some feature and targets. 
+Machine learning is the process of computing the best parameters to model the relationship between some feature and targets. 
 
 Every machine learning problem has three components:
 
