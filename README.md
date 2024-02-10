@@ -1,4 +1,4 @@
-# machine-learning-with-python-scitkitlearn
+# machine-learning-with-python-scikitlearn
 Practical and hands-on introduction to Machine Learning with Python and Scikit-Learn:
 
 ### Machine Learning
