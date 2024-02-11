@@ -24,3 +24,4 @@ I'll explore several examples and models in this repository. Here's how the rela
 
 ### Contents
 1. Predicting Medical Expenses Using Linear Regression
+2. Analyzing a Decade of Australian Weather with Logistic Regression
